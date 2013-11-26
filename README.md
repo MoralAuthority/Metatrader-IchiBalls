@@ -1,5 +1,5 @@
-IchiBalls Indicator
-===================
+IchiBalls Indicator for Metatrader 4
+====================================
 
 The reason I wrote the Ichiballs indicator was I struggling to try to watch all the pairs at once. It always seemed that while I was stalking one pair there was always some other pair was moving much better. So I wrote an indicator (which I affectionately call IchiBalls) to watch all the pairs and score each timeframe related to aspects of Ichi signals. Each timeframe is score from 0 to 5... Red being bearish and green being bullish. The scores at the end percentages based on aggregates of groups of timeframes. Also, you'll notice the little bars next to the timeframe scores; the first is based on RSI and the second is based on CCI.
 
